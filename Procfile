@@ -1,2 +1,1 @@
-web: python main.py
-release: python setup.py
+web: python setup.py && python main.py
