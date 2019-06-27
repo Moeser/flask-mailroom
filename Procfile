@@ -1,1 +1,1 @@
-web: python setup.py && python main.py
+web: python main.py
